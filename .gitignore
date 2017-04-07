@@ -1,1 +1,6 @@
+*~
+*.bak
+*.bkup
+*#
+nbproject/*
 /vendor/
